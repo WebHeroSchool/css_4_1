@@ -1,8 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+TC|Roboto');
+*{
+	font-family: 'Roboto', sans-serif;
+}
 .header{
 	color:darkblue;
 	background:lightgreen;
 }
 .header__h1{
+	font-family: 'Noto Serif TC', serif;
 	text-decoration-style: wavy;
 }
 .section__h1{
