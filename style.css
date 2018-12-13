@@ -1,0 +1,14 @@
+.header{
+	color:darkblue;
+	background:lightgreen;
+}
+.header__h1{
+	text-decoration-style: wavy;
+}
+.section__h1{
+color:pink;
+}
+.footer{
+	color: grey;
+	box-shadow: 2px 6px 6px;
+}
